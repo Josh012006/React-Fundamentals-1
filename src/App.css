@@ -25,6 +25,8 @@ body {
     border-radius: 20px;
 
     background-color: rgb(2, 6, 23);
+
+    cursor: pointer;
 }
 
 .card-body {
